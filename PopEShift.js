@@ -7,7 +7,7 @@ console.log(nomesPop)
 
 
 //O método **shift()**remove o primeiro elemento de um array e retorna esse elemento. 
-//Este método muda o tamanho do array.
+//Este método muda o tamanho do array e desloca os índices.
 
 const nomes2 = ['Eduardo', 'Maria', 'Joana'];
 const nomesPop2 = nomes2.shift();
