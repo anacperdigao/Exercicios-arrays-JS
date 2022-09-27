@@ -1,4 +1,4 @@
-//array.aplice(indice que quero comecar a mexer, quantos elementos quero remover do array, elementos para adicionar)
+//array.splice(indice que quero comecar a mexer, quantos elementos quero remover do array, elementos para adicionar)
 //                 -5         -4      -3       -2     -1
 //                  0          1       2        3      4 
 const nomes = [ 'Eduardo', 'Maria', 'Joana', 'João', 'Ana' ]
